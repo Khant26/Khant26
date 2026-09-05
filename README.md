@@ -1,7 +1,8 @@
 # Hi, I'm Khant Maung
 
-Full-stack developer based in Pathum Thani, Thailand. I build practical web products across frontend, backend, databases, authentication, and deployment.
+Full-stack developer based in Pathum Thani, Thailand, with 1 year of professional experience building practical web products across frontend, backend, databases, authentication, and deployment.
 
+- B.Sc. in Information and Communication Technology from Rangsit University
 - Building with React, Node.js, Express, Django, PostgreSQL, and MongoDB
 - Experienced with REST APIs, role-based access control, JWT authentication, Nginx, Vercel, and Render
 - Background in test automation and functional testing with Tosca
