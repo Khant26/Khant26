@@ -1,20 +1,74 @@
-# Hi, I'm Khant Maung
+<div align="center">
 
-Full-stack developer based in Pathum Thani, Thailand, with 1 year of professional experience building practical web products across frontend, backend, databases, authentication, and deployment.
+# Hi, I'm Khant Maung 👋
 
-- B.Sc. in Information and Communication Technology from Rangsit University
-- Building with React, Node.js, Express, Django, PostgreSQL, and MongoDB
-- Experienced with REST APIs, role-based access control, JWT authentication, Nginx, Vercel, and Render
-- Background in test automation and functional testing with Tosca
-- Open to full-time, freelance, and collaborative opportunities
+### Full-Stack Developer · React · Node.js · Django · PostgreSQL
 
-## Featured work
+I build practical, responsive web products—from polished user interfaces to secure APIs, databases, authentication, and deployment.
 
-- [Real-Time Airline Booking Platform](https://github.com/Khant26/AirTicket_Frontend_FlyQM) - flight search, authentication, booking flows, pricing, and user booking history
-- [Event Booking and Ticketing Platform](https://github.com/Khant26/Ticketany_Frontend) - event discovery, ticket booking, roles, validation, and dashboards; [live site](https://ticketsany.com/)
-- [Content Management System](https://github.com/Khant26/cms_frontend) - blog and portfolio publishing with an admin dashboard and role-based access; [live site](https://www.civilmastersolution.com/)
-- [Developer Portfolio](https://github.com/Khant26/My_Portfolio) - responsive personal site with live GitHub data; [live site](https://khantmaung.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-khantmaung.com-9FE870?style=for-the-badge&logo=vercel&logoColor=black)](https://khantmaung.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Khant26-181717?style=for-the-badge&logo=github)](https://github.com/Khant26)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khantmg262626@gmail.com)
 
-## Connect
+</div>
 
-- Portfolio and contact: [khantmaung.com](https://khantmaung.com/)
+## About me
+
+- Based in Pathum Thani, Thailand 🇹🇭
+- B.Sc. in Information and Communication Technology, Rangsit University
+- One year of professional experience building full-stack products
+- Experienced with REST APIs, JWT authentication, role-based access control, caching, and deployment
+- Background in functional testing and test automation with Tricentis Tosca
+- Open to full-time roles, freelance work, and meaningful collaborations
+
+## Technology toolkit
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend and data**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Delivery and quality**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=white)
+
+## Selected projects
+
+| Project | What it demonstrates | Links |
+|---|---|---|
+| **Airline Booking Platform** | React booking experience with a FastAPI, PostgreSQL, Redis, and Docker backend | [Frontend](https://github.com/Khant26/AirTicket_Frontend_FlyQM) · [Backend](https://github.com/Khant26/AirTicket_Backend_FlyQM) |
+| **TicketsAnywhere** | Event discovery, booking flows, role-based dashboards, and Django APIs | [Live](https://ticketsany.com/) · [Frontend](https://github.com/Khant26/Ticketany_Frontend) · [Backend](https://github.com/Khant26/TicketsAnywhere_Backend) |
+| **Content Management System** | Content publishing, rich-text editing, administration, authentication, and Django REST APIs | [Live](https://www.civilmastersolution.com/) · [Frontend](https://github.com/Khant26/cms_frontend) · [Backend](https://github.com/Khant26/cms_backend) |
+| **EverZone Commerce** | Storefront, admin workflows, Express APIs, and PostgreSQL data | [Live](https://ever-zone-front-end.vercel.app/) · [Frontend](https://github.com/Khant26/EverZone_FrontEnd) · [Backend](https://github.com/Khant26/EverZone_Backend) |
+| **Developer Portfolio** | Dependency-free responsive portfolio with live GitHub data and accessible themes | [Live](https://khantmaung.com/) · [Source](https://github.com/Khant26/My_Portfolio) |
+
+## What I care about
+
+```text
+Clear interfaces  •  Maintainable code  •  Secure APIs  •  Useful products
+```
+
+<div align="center">
+
+### Let's build something useful.
+
+[Visit my portfolio](https://khantmaung.com/) · [Email me](mailto:khantmg262626@gmail.com)
+
+</div>
