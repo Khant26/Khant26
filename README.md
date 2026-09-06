@@ -53,11 +53,11 @@ I build practical, responsive web products—from polished user interfaces to se
 
 | Project | What it demonstrates | Links |
 |---|---|---|
-| **Airline Booking Platform** | React booking experience with a FastAPI, PostgreSQL, Redis, and Docker backend | [Frontend](https://github.com/Khant26/AirTicket_Frontend_FlyQM) · [Backend](https://github.com/Khant26/AirTicket_Backend_FlyQM) |
-| **TicketsAnywhere** | Event discovery, booking flows, role-based dashboards, and Django APIs | [Live](https://ticketsany.com/) · [Frontend](https://github.com/Khant26/Ticketany_Frontend) · [Backend](https://github.com/Khant26/TicketsAnywhere_Backend) |
-| **Content Management System** | Content publishing, rich-text editing, administration, authentication, and Django REST APIs | [Live](https://www.civilmastersolution.com/) · [Frontend](https://github.com/Khant26/cms_frontend) · [Backend](https://github.com/Khant26/cms_backend) |
-| **EverZone Commerce** | Storefront, admin workflows, Express APIs, and PostgreSQL data | [Live](https://ever-zone-front-end.vercel.app/) · [Frontend](https://github.com/Khant26/EverZone_FrontEnd) · [Backend](https://github.com/Khant26/EverZone_Backend) |
-| **Developer Portfolio** | Dependency-free responsive portfolio with live GitHub data and accessible themes | [Live](https://khantmaung.com/) · [Source](https://github.com/Khant26/My_Portfolio) |
+| **Airline Booking Platform** | React booking experience with a FastAPI, PostgreSQL, Redis, and Docker backend | [Frontend](https://github.com/Khant26/flyqm-web) · [Backend](https://github.com/Khant26/flyqm-api) |
+| **TicketsAnywhere** | Event discovery, booking flows, role-based dashboards, and Django APIs | [Live](https://ticketsany.com/) · [Frontend](https://github.com/Khant26/ticketsany-web) · [Backend](https://github.com/Khant26/ticketsany-api) |
+| **Content Management System** | Content publishing, rich-text editing, administration, authentication, and Django REST APIs | [Live](https://www.civilmastersolution.com/) · [Frontend](https://github.com/Khant26/civil-master-solution-web) · [Backend](https://github.com/Khant26/cms_backend) |
+| **EverZone Commerce** | Storefront, admin workflows, Express APIs, and PostgreSQL data | [Live](https://ever-zone-front-end.vercel.app/) · [Frontend](https://github.com/Khant26/everzone-web) · [Backend](https://github.com/Khant26/everzone-api) |
+| **Developer Portfolio** | Dependency-free responsive portfolio with live GitHub data and accessible themes | [Live](https://khantmaung.com/) · [Source](https://github.com/Khant26/khant-portfolio) |
 
 ## What I care about
 
