@@ -53,10 +53,10 @@ I build practical, responsive web products—from polished user interfaces to se
 
 | Project | What it demonstrates | Links |
 |---|---|---|
-| **Airline Booking Platform** | React booking experience with a FastAPI, PostgreSQL, Redis, and Docker backend | [Frontend](https://github.com/Khant26/flyqm-web) · [Backend](https://github.com/Khant26/flyqm-api) |
-| **TicketsAnywhere** | Event discovery, booking flows, role-based dashboards, and Django APIs | [Live](https://ticketsany.com/) · [Frontend](https://github.com/Khant26/ticketsany-web) · [Backend](https://github.com/Khant26/ticketsany-api) |
-| **Content Management System** | Content publishing, rich-text editing, administration, authentication, and Django REST APIs | [Live](https://www.civilmastersolution.com/) · [Frontend](https://github.com/Khant26/civil-master-solution-web) · [Backend](https://github.com/Khant26/cms_backend) |
-| **EverZone Commerce** | Storefront, admin workflows, Express APIs, and PostgreSQL data | [Live](https://ever-zone-front-end.vercel.app/) · [Frontend](https://github.com/Khant26/everzone-web) · [Backend](https://github.com/Khant26/everzone-api) |
+| **FlyQM Airline Booking Platform** | React booking experience with a FastAPI, PostgreSQL, Redis, and Docker backend | [Live](https://flyqm.com/en) · [Frontend](https://github.com/Khant26/flyqm-web) · [Admin](https://github.com/Khant26/flyqm-admin) · [Backend](https://github.com/Khant26/flyqm-api) |
+| **TicketsAnywhere** | Event discovery, booking flows, role-based dashboards, and Django APIs | [Live](https://ticketsany.com/) · [Frontend](https://github.com/Khant26/ticketsany-web) · [Admin](https://github.com/Khant26/ticketsany-admin) · [Backend](https://github.com/Khant26/ticketsany-api) |
+| **Civil Master Solution** | Content publishing, rich-text editing, administration, authentication, and Django REST APIs | [Live](https://www.civilmastersolution.com/) · [Frontend](https://github.com/Khant26/civil-master-solution-web) · [Backend](https://github.com/Khant26/cms_backend) |
+| **SawYun POS** | Multi-tenant sales, inventory, procurement, analytics, offline sync, and native receipt printing | [Live](https://pos.sawyuntech.com/login) · [Source](https://github.com/Khant26/sawyun-pos) |
 | **Developer Portfolio** | Dependency-free responsive portfolio with live GitHub data and accessible themes | [Live](https://khantmaung.com/) · [Source](https://github.com/Khant26/khant-portfolio) |
 
 ## What I care about
